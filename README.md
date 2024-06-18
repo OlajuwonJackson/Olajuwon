@@ -1,5 +1,5 @@
 Hi there my name is Olajuwon
-<h1>Hi, I'm Olajuwon, an <a href="https://linkedin.com/in/olajuwon-Jackson-8084468">IT Professional</a>☺</h1>
+<h1>Hi, I'm Olajuwon, an <a href="https://linkedin.com/in/olajuwon-Jackson-80844687">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,4 +17,4 @@ Hi there my name is Olajuwon
 
 
 
-[linkedin]: https://linkedin.com/in/Olajuwon-Jackson-8084468
+[linkedin]: https://linkedin.com/in/Olajuwon-Jackson-80844687
